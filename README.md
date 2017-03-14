@@ -1,4 +1,4 @@
-![](C:\Users\이동현\Desktop "gachon")
+![](C:\Users\이동현\Desktop)
 # Gachon University
 
 *SoftWare Design&Management*
